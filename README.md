@@ -1,5 +1,12 @@
 ### Hi there 👋
-🔭 I’m currently working on ...
+My name is Takgeun-Oh, graduated from Sejong University, and my major is Data Science.
+<br>I am studying the front-end and back-ends for fullstack developer.
+
+Interest
+- Web developer 👨‍💻
+- Game 🎮
+- IT device 💻
+
 
 <!--
 **takgeunOh/takgeunOh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
