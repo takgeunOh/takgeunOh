@@ -2,6 +2,8 @@
 My name is Takgeun-Oh, graduated from Sejong University, and my major is Data Science.
 <br>I am studying the front-end and back-end for fullstack developer.
 
+notion > https://shiny-wood-180.notion.site/10c6f9e11c5f436e831a4b64a72b9668?v=24531f13ba664c368e719deeb4d4b633
+
 Interest
 - Web developer 👨‍💻
 - Game 🎮
